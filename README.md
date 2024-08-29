@@ -2,6 +2,10 @@
 
 **SlyBump** est un bot automatisé conçu pour envoyer des commandes `/bump` sur Discord via plusieurs comptes utilisateurs. Le bot utilise Selenium pour contrôler une session Firefox, et Tkinter pour fournir une interface utilisateur simple.
 
+ ![Version](https://img.shields.io/badge/Version-v1.0-red)
+![Python](https://img.shields.io/badge/python-100%25-red)
+
+
 ## Fonctionnalités
 
 - Connexion automatique à Discord
